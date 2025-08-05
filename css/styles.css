@@ -208,7 +208,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .section-one {
-        margin: auto;
+    margin: auto;
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6, p {
     background-image:
         linear-gradient(rgba(46, 47, 66, 0.7), 
         rgba(46, 47, 66, 0.7)), 
-    url(../images/people-office\ .jpg);
+    url(../images/people-office\.jpg);
     background-color: #2e2f42;
     padding: 188px 0;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);;
